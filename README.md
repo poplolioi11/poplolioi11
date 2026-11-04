@@ -16,7 +16,7 @@ I explore **cultural heritage, open data, and creative coding**—turning source
 - **Digital humanities｜數位人文** — Traceable historical-text datasets.<br>整理可追溯的古籍文字，保留底本來源、疑讀與修訂紀錄。
 - **Open cultural data｜文化開放資料** — Source-linked library and museum records from Taiwan.<br>整合臺灣圖書館統計與博物館保存修護公開資料，提供可用資料與回查入口。
 - **Creative coding｜互動視覺創作** — Water, creatures, ASCII, and cultural experiences in the browser.<br>探索水景、生物與字元動畫，並透過「一卦」製作文化互動體驗。
-- **AI collaboration｜AI 協作** — Experiments in background delegation, result collection, and review.<br>實驗背景派工、成果回收與查核整合，減少工具之間的手動搬運。
+- **Personal AI workflows｜個人 AI 工作流** — Background workflows for research, making, and review.<br>建立研究、製作與查核用的個人 AI 工作流。
 
 ## Selected work｜代表作品
 
@@ -36,7 +36,13 @@ Two small worlds, ready to explore in your browser.｜兩個可以直接開啟�
 | [Taiwan Public Library Statistics｜臺灣公共圖書館統計](https://github.com/poplolioi11/tw-public-library-statistics) | Explore charts and CSV/SQLite datasets traceable to official sources.<br>查閱圖表與 CSV／SQLite 資料，逐筆回官方來源。 [Open explorer｜開啟圖表](https://poplolioi11.github.io/tw-public-library-statistics/) |
 | [Taiwan Public Museum Conservation Index｜臺灣公立館保存修護索引](https://github.com/poplolioi11/tw-public-museum-conservation) | Find published conservation records with source and coverage notes.<br>查找保存修護公開紀錄，保留來源、涵蓋範圍與缺口。 |
 | [Sitian Kaoyantu｜司天考驗圖](https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu) | An AI-assisted draft transcription with image review, uncertain readings, and versioned files.<br>古籍 AI 輔助初錄與回圖校讀，保留疑讀與版本紀錄。 |
-| [AI Coop](https://github.com/poplolioi11/ai-coop) | An experimental bridge for background AI delegation and result collection.<br>實驗性的背景 AI 派工與成果回收橋接工具。 |
+
+## Certifications｜認證
+
+| Credential｜證書 | Issued｜取得日期 |
+| --- | --- |
+| [**Hugging Face Agents Course — Certificate of Excellence**](https://huggingface.co/datasets/agents-course/final-certificates/resolve/main/certificates/poplolioi11/2026-11-04.png)<br>AI Agents 課程優秀結業證書 · Hugging Face | 2026-11-04 |
+| [Gemini Certified University Student](https://edu.google.accredible.com/89146706-ac8b-448e-8b65-49f61c4e0b6f)<br>Google for Education · Valid until｜有效至 2029-10-24 | 2026-10-24 |
 
 <details>
 <summary>More cultural projects｜更多文化作品</summary>
@@ -59,15 +65,11 @@ Historical-text projects include AI-assisted drafts and image-based review; they
 古籍專案包含 AI 輔助初錄與回圖校讀，**尚非人類專家審定本**；資料涵蓋範圍、權利與驗證狀態，均以各專案說明為準。
 
 <details>
-<summary>Community notes & certification｜社群紀錄與認證</summary>
+<summary>Community notes｜社群紀錄</summary>
 
 I also document reproducible Traditional Chinese / CJK interface issues, including [Carbon’s translated labels](https://github.com/carbon-design-system/carbon/issues/23846) and [Adobe Spectrum’s locale-sensitive line height](https://github.com/adobe/spectrum-web-components/issues/6861). These links record issue reports; resolution status belongs to each upstream project.
 
 我也整理繁體中文與 CJK 介面中可重現的問題，包括 [Carbon 翻譯標籤](https://github.com/carbon-design-system/carbon/issues/23846)與 [Adobe Spectrum 語系行高](https://github.com/adobe/spectrum-web-components/issues/6861)；這些連結為問題回報，修正狀態以各上游專案為準。
-
-| Certification｜認證 | Issuer｜核發單位 | Issued｜取得日期 | Valid until｜有效期限 |
-| --- | --- | --- | --- |
-| [Gemini Certified University Student](https://edu.google.accredible.com/89146706-ac8b-448e-8b65-49f61c4e0b6f) | Google for Education | 2026-10-24 | 2029-10-24 |
 
 </details>
 
