@@ -41,6 +41,7 @@ Two small worlds, ready to explore in your browser.｜兩個可以直接開啟�
 
 | Credential｜證書 | Issued｜取得日期 |
 | --- | --- |
+| [**Hugging Face Deep Reinforcement Learning Course — Certificate of Excellence**](https://github.com/poplolioi11/poplolioi11/blob/main/assets/certificates/huggingface-deep-rl-excellence-2026-11-05.pdf)<br>深度強化學習課程優秀結業證書 · Hugging Face · [官方紀錄｜Official record](https://huggingface.co/datasets/huggingface-projects/Deep-RL-Course-Certification/blob/7eea1febf8fdc6533b2d5092fa29b4eea35e4b20/certified_users.csv#L2) | 2026-11-05 |
 | [**Hugging Face Agents Course — Certificate of Excellence**](https://huggingface.co/datasets/agents-course/final-certificates/resolve/main/certificates/poplolioi11/2026-11-04.png)<br>AI Agents 課程優秀結業證書 · Hugging Face | 2026-11-04 |
 | [Gemini Certified University Student](https://edu.google.accredible.com/89146706-ac8b-448e-8b65-49f61c4e0b6f)<br>Google for Education · Valid until｜有效至 2029-10-24 | 2026-10-24 |
 
