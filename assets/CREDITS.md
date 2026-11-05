@@ -4,6 +4,9 @@
 - `rain-lake.jpg`: unchanged screenshot from [Rain Lake](https://github.com/poplolioi11/rain-lake/blob/main/assets/smooth.jpg), source Git blob `89997b22e8019a8783672fedceeaca142864af15`.
 - `gosanke-koi.jpg`: unchanged screenshot from [Gosanke Koi](https://github.com/poplolioi11/gosanke-koi/blob/main/assets/preview.jpg), source Git blob `f0ad767c8f9565bdeabbc66f62133656e1562b12`.
 
+- `yigua.jpg`: unmodified screenshot captured from [Yi Gua](https://yigua.art/) v1.4.31 on 2026-11-05, using a fresh headless browser with reduced motion. Original website content/arrangement by Chen-Yu Chu (曲宸宇), implemented with AI assistance; the website's original notices apply. No CSSDA award artwork is copied here.
+- `rain-lake-brighter.png`: brightness-adjusted preview derived from the unchanged `rain-lake.jpg` above, with the user's explicit approval. RGB brightness factor 1.6; no cropping, resampling, reconstructed detail, or clipped channels. The original screenshot remains in this repository.
+
 The two screenshot projects are by Chen-Yu Chu (曲宸宇), implemented with AI assistance. Their source, inspiration, and full notices remain in the linked repositories. The following notice preserves the source projects' MIT license for the two screenshots.
 
 MIT License

@@ -1,0 +1,29 @@
+# Late Qing medical-history texts｜晚清醫學史文獻
+
+以 Bodleian Libraries 館藏為底本，整理十件中文醫學與醫療慈善史文獻，提供可定位的 TXT／JSON／TEI、疑讀與版本紀錄。各專案所用底本年代表述主要為 1849–1874，另含館目疑定為 **[1880年代?]** 的《設醫原由》。
+
+Source-linked provisional AI transcriptions of ten Chinese-language works on late Qing medicine and medical charity, based on Bodleian witnesses. Dates are chiefly 1849–1874, with *She yi yuan you* tentatively catalogued **[1880s?]**. TXT, JSON, TEI, uncertainty records, and versioned citations are available through the projects below.
+
+[Back to profile｜回主頁](../README.md)
+
+英譯為檢索意譯，並非館目正式英文題名。轉錄保留未解讀字，尚非人類全文雙校或專家審定本。Bracketed English glosses are editorial discovery aids; the texts remain provisional AI-assisted transcriptions, without human full double collation or expert review.
+
+| 文獻與年代｜Work & date | 內容｜Research context | 來源與資料｜Sources & data |
+| --- | --- | --- |
+| 《治病良言》 · 1849<br>Zhi bing liang yan [Good advice on treating illness] | 香港醫療慈善、醫病關係與費用話語。<br>A Hong Kong medical-charity tract concerning hospital–patient relations and discourse on expense. | [GitHub](https://github.com/poplolioi11/bodleian-sinica1411-zhibing-liangyan-1849) · [v0.2.0 DOI](https://doi.org/10.5281/zenodo.23873571)<br>[Bodleian Sinica 1411](https://digital.bodleian.ox.ac.uk/objects/ecbaffa4-4b05-418e-8865-cfda761fa353/) |
+| 《種痘捷法》 · 1859<br>Zhong dou jie fa [Concise guide to vaccination] | 種痘知識的中文傳播與醫局出版史。<br>A historical vaccination pamphlet for studying knowledge circulation and institutional medical print culture. | [GitHub](https://github.com/poplolioi11/bodleian-sinica1240-zhongdou-jiefa-1859) · [v0.2.0 DOI](https://doi.org/10.5281/zenodo.23870679)<br>[Bodleian Sinica 1240](https://digital.bodleian.ox.ac.uk/objects/657cb8d8-0323-48b5-9053-566eccc6421a/) |
+| 《論發冷小腸疝兩症》 · 1859<br>Lun fa leng xiao chang shan liang zheng [On ague and hernia] | 宗教前言、歷史疾病論述與疝帶圖。<br>A religious preface, historical disease discourse, and a truss illustration. | [GitHub](https://github.com/poplolioi11/bodleian-sinica1241-faleng-xiaochangshan-1859) · [v0.2.0 DOI](https://doi.org/10.5281/zenodo.23636930)<br>[Bodleian Sinica 1241](https://digital.bodleian.ox.ac.uk/objects/3a397e45-295b-4a9c-a8a5-1b2db808b2b0/) |
+| 《保免攔除》 · 1867<br>Bao mian lan chu [Preventing and averting illness] | 漢皋保健小冊、傳教出版與日常生活史。<br>A Hankow health pamphlet linking everyday health discourse with Christian vocabulary. | [GitHub](https://github.com/poplolioi11/bodleian-sinica2044-baomian-lanchu-1867) · [v0.2.0 DOI](https://doi.org/10.5281/zenodo.23975561)<br>[Bodleian Sinica 2044](https://digital.bodleian.ox.ac.uk/objects/7a174530-82e6-4c23-9c95-1faa233b7f6c/) |
+| 《奇症略述》 · 1868<br>Qi zheng lue shu [Brief account of remarkable cases] | 廣州醫館報告、病例敘述與機構自我呈現。<br>Canton hospital reports and illustrated case narratives, documenting institutional self-presentation. | [GitHub](https://github.com/poplolioi11/bodleian-sinica2021-qizheng-lueshu-1868) · [v0.2.0 DOI](https://doi.org/10.5281/zenodo.23880332)<br>[Bodleian Sinica 2021](https://digital.bodleian.ox.ac.uk/objects/2b78eb2a-11d1-4923-8fbd-c157e4c72f0e/) |
+| 《西藥略釋》 · 1871<br>Xi yao lue shi [Brief explanation of Western medicines] | 西藥著作、中英藥名與晚清醫學翻譯。<br>Western-medicine terminology, a bilingual drug-name table, and late Qing medical translation. | [GitHub](https://github.com/poplolioi11/bodleian-sinica1798-xiyao-lueshi-1871) · [v0.2.0 DOI](https://doi.org/10.5281/zenodo.23980206)<br>[Bodleian Sinica 1798](https://digital.bodleian.ox.ac.uk/objects/e170f96f-116e-4d20-84f9-33d9eb0e7325/) |
+| 《醫館略述》 · 1871<br>Yi guan lue shu [Brief account of a medical institution] | 設院敘述、慈善網絡、捐款與收支。<br>Hospital founding, charitable networks, illustrations, donations, and finances. | [GitHub](https://github.com/poplolioi11/bodleian-sinica2017-yiguan-lueshu-1871) · [v0.2.0 DOI](https://doi.org/10.5281/zenodo.23874525)<br>[Bodleian Sinica 2017](https://digital.bodleian.ox.ac.uk/objects/f1cdcd6c-9bf3-4475-93e0-e6c58213422f/) |
+| 《西醫新法》 · [1872]<br>Xi yi xin fa [New methods of Western medicine] | 外科與包紮漢譯詞彙、圖文及印刷史。<br>A Chinese translation on surgery and bandaging, for studying vocabulary, illustration, and print history. | [GitHub](https://github.com/poplolioi11/bodleian-sinica1826-xiyi-xinfa-1872) · [v0.2.0 DOI](https://doi.org/10.5281/zenodo.23971701)<br>[Bodleian Sinica 1826](https://digital.bodleian.ox.ac.uk/objects/d07550d1-b969-4d5a-a5f3-5bd10634b21c/) |
+| 《醫館略述三書》 · 1874<br>Yi guan lue shu san shu [Brief account of a medical institution: Three writings] | 醫館敘述、捐款及收支；三書／二書題名疑義保留。<br>Hospital narratives, donor lists, and financial statements; the 三書/二書 title discrepancy remains recorded. | [GitHub](https://github.com/poplolioi11/bodleian-sinica1634-yiguan-lueshu-1874) · [v0.2.0 DOI](https://doi.org/10.5281/zenodo.23878170)<br>[Bodleian Sinica 1634](https://digital.bodleian.ox.ac.uk/objects/019188cf-3884-48c4-a8ab-bfb98a65d12d/) |
+| 《設醫原由》 · [1880年代?] / [1880s?]<br>She yi yuan you [Reasons for establishing hospitals] | 病房圖、經文小註與基督教醫療慈善。<br>A Christian sheet tract explaining hospital charity, with a ward illustration and scriptural notes. | [GitHub](https://github.com/poplolioi11/bodleian-sinica6530-sheyi-yuanyou) · [v0.2.0 DOI](https://doi.org/10.5281/zenodo.23882484)<br>[Bodleian Sinica 6530](https://digital.bodleian.ox.ac.uk/objects/665a097d-513a-4bf2-bdbf-af3bae5346fe/) |
+
+
+年代註：Sinica 1240 館目題錄為咸豐九年[1859]，機器年代欄卻為1874，本索引依刊記／專案題名保留1859並記錄衝突；Sinica 2021 館目合記1864–1868，專案使用1868底本。《醫館略述三書》的三書／二書與紀年差異亦保留在專案中。
+
+Date notes: the Sinica 1240 catalogue heading gives 1859 while its machine date field gives 1874; this index retains the imprint/project label and records the discrepancy. The Sinica 2021 catalogue covers 1864–1868, while the project identifies an 1868 witness. Title and dating discrepancies for *Yi guan lue shu san shu* remain documented in its repository.
+
+同一成果的初錄版、修訂版與「所有版本」DOI是同一版本群組，不各算一件獨立作品。First-transcription, revised-version, and all-versions DOIs belong to a version group; they are not separate independent works.
