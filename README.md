@@ -41,6 +41,8 @@ Two small worlds, ready to explore in your browser.｜兩個可以直接開啟�
 
 | Credential｜證書 | Issued｜取得日期 |
 | --- | --- |
+| [Kaggle — Intermediate Machine Learning](https://www.kaggle.com/learn/certification/poplolioi11/intermediate-machine-learning)<br>中階機器學習 · Certificate of Completion｜課程完成證書 | 2026-11-05 |
+| [Kaggle — Feature Engineering](https://www.kaggle.com/learn/certification/poplolioi11/feature-engineering)<br>特徵工程 · Certificate of Completion｜課程完成證書 | 2026-11-05 |
 | [Kaggle — Intro to Deep Learning](https://www.kaggle.com/learn/certification/poplolioi11/intro-to-deep-learning)<br>深度學習入門 · Certificate of Completion｜課程完成證書 | 2026-11-05 |
 | [Kaggle — Computer Vision](https://www.kaggle.com/learn/certification/poplolioi11/computer-vision)<br>電腦視覺 · Certificate of Completion｜課程完成證書 | 2026-11-05 |
 | [Hugging Face Reasoning Course — Fundamentals of GRPO](https://huggingface.co/datasets/reasoning-course/certificates/resolve/b9406b240434c33308fd290121381b9588a3f94d/certificates/poplolioi11/2026-11-05.png)<br>推理課程：GRPO 基礎 · Certificate of Achievement｜單元成就證書 | 2026-11-05 |
