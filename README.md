@@ -24,24 +24,24 @@ Medical student in Taiwan exploring **cultural heritage, open data, and creative
 
 ### Interactive experiences｜互動體驗
 
-**[Yigua｜一卦](https://yigua.art/)** — An I Ching experience rooted in hexagrams and source texts, with an interface in eight languages.<br>
-以卦象與原典為核心的《易經》數位體驗，提供八語介面。
-
+<table>
+<tr>
+<th width="50%"><a href="https://github.com/poplolioi11/gosanke-koi">Gosanke Koi｜御三家錦鯉</a></th>
+<th width="50%"><a href="https://yigua.art/">Yigua｜一卦</a></th>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://poplolioi11.github.io/gosanke-koi/"><img src="assets/gosanke-koi.jpg" width="100%" alt="Gosanke Koi：深墨藍水域中的三隻字元錦鯉｜Three ASCII koi in a dark pond"></a>
+<p>Three ASCII koi moving through a dark pond.<br>三隻字元錦鯉在深墨藍水域悠游。</p>
+<p><a href="https://poplolioi11.github.io/gosanke-koi/">Live demo｜直接試看</a> · <a href="https://github.com/poplolioi11/gosanke-koi">Source｜原始碼</a></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://yigua.art/"><img src="assets/yigua.jpg" width="100%" alt="一卦正式網站首頁：紙色背景、太極與讓卦回到卦標語｜Yi Gua homepage with a taiji and Chinese typography"></a>
-
-[CSS Design Awards — Special Kudos · Final Judge’s Score 7.27](https://www.cssdesignawards.com/sites/yi-gua/50511/) · 2026-10-27<br>
-CSS Design Awards：Special Kudos、評審分數 7.27；UI／UX／Innovation Public Awards。
-
-**Small browser worlds｜瀏覽器裡的小世界**
-
-<a href="https://poplolioi11.github.io/rain-lake/smooth/"><img src="assets/rain-lake-brighter.png" width="49%" alt="Rain Lake：細雨與交疊漣漪，預覽經亮度調整｜Rain Lake ripples, preview brightness adjusted"></a>
-<a href="https://poplolioi11.github.io/gosanke-koi/"><img src="assets/gosanke-koi.jpg" width="49%" alt="Gosanke Koi：深墨藍水域中的三隻字元錦鯉｜Three ASCII koi in a dark pond"></a>
-
-**[Rain Lake｜雨湖](https://github.com/poplolioi11/rain-lake)** — Rain, ripples, and quiet fish shadows.｜細雨、漣漪與緩慢游動的魚影。<br>
-[Smooth demo](https://poplolioi11.github.io/rain-lake/smooth/) · [ASCII demo](https://poplolioi11.github.io/rain-lake/ascii/)
-
-**[Gosanke Koi｜御三家錦鯉](https://github.com/poplolioi11/gosanke-koi)** — Three ASCII koi moving through a dark pond.｜三隻字元錦鯉在深墨藍水域悠游。<br>
-[Live demo｜直接試看](https://poplolioi11.github.io/gosanke-koi/)
+<p>An I Ching experience rooted in hexagrams and source texts, with an interface in eight languages.<br>以卦象與原典為核心的《易經》數位體驗，提供八語介面。</p>
+<p><a href="https://yigua.art/">Open Yigua｜開啟一卦</a> · <a href="https://www.cssdesignawards.com/sites/yi-gua/50511/">CSS Design Awards — Special Kudos · Final Judge’s Score 7.27</a><br>2026-10-27 · CSS Design Awards：Special Kudos、評審分數 7.27；UI／UX／Innovation Public Awards。</p>
+</td>
+</tr>
+</table>
 
 <details>
 <summary>More cultural projects｜更多文化作品</summary>
