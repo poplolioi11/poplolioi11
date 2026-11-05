@@ -41,9 +41,19 @@ Two small worlds, ready to explore in your browser.｜兩個可以直接開啟�
 
 | Credential｜證書 | Issued｜取得日期 |
 | --- | --- |
+| [Kaggle — Intro to Deep Learning](https://www.kaggle.com/learn/certification/poplolioi11/intro-to-deep-learning)<br>深度學習入門 · Certificate of Completion｜課程完成證書 | 2026-11-05 |
+| [Kaggle — Computer Vision](https://www.kaggle.com/learn/certification/poplolioi11/computer-vision)<br>電腦視覺 · Certificate of Completion｜課程完成證書 | 2026-11-05 |
+| [Hugging Face Reasoning Course — Fundamentals of GRPO](https://huggingface.co/datasets/reasoning-course/certificates/resolve/b9406b240434c33308fd290121381b9588a3f94d/certificates/poplolioi11/2026-11-05.png)<br>推理課程：GRPO 基礎 · Certificate of Achievement｜單元成就證書 | 2026-11-05 |
+| [Hugging Face LLM Post Training — Supervised Fine-tuning](https://huggingface.co/datasets/smol-course/certificates/resolve/5d353065096d1385e652ef05d19ff5f59315f8f9/certificates/poplolioi11/2026-11-05.png)<br>LLM 後訓練：監督式微調 · Certificate of Achievement｜單元成就證書 | 2026-11-05 |
+| [Hugging Face LLM Post Training — Preference Alignment](https://huggingface.co/datasets/smol-course/certificates/resolve/f916ff1d4f2c6e274f3377fc536b4ec8f72dad57/certificates/poplolioi11/2026-11-05.png)<br>LLM 後訓練：偏好對齊 · Certificate of Achievement｜單元成就證書 | 2026-11-05 |
+| [Hugging Face LLM Post Training — Vision Language Models](https://huggingface.co/datasets/smol-course/certificates/resolve/cdd466e2234c92dad6957225cada778dd164735a/certificates/poplolioi11/2026-11-05.png)<br>LLM 後訓練：視覺語言模型 · Certificate of Achievement｜單元成就證書 | 2026-11-05 |
 | [**Hugging Face Deep Reinforcement Learning Course — Certificate of Excellence**](https://github.com/poplolioi11/poplolioi11/blob/main/assets/certificates/huggingface-deep-rl-excellence-2026-11-05.pdf)<br>深度強化學習課程優秀結業證書 · Hugging Face · [官方紀錄｜Official record](https://huggingface.co/datasets/huggingface-projects/Deep-RL-Course-Certification/blob/7eea1febf8fdc6533b2d5092fa29b4eea35e4b20/certified_users.csv#L2) | 2026-11-05 |
+| [Hugging Face MCP Course — Unit 1: Fundamentals of MCP](https://huggingface.co/datasets/context-course/certificates/resolve/fae7fc6341f03574011524c4f6082d0b68de3bed/certificates/poplolioi11/2026-11-04.png)<br>MCP 單元 1：MCP 基礎 · Certificate of Achievement｜單元成就證書 | 2026-11-04 |
+| [Hugging Face MCP Course — Unit 3: MCP for Production Automation](https://huggingface.co/datasets/context-course/certificates/resolve/4fde36b10449e46a55756e492674a12533be2cb1/certificates/poplolioi11/2026-11-04.png)<br>MCP 單元 3：正式環境自動化 · Certificate of Achievement｜單元成就證書 | 2026-11-04 |
 | [**Hugging Face Agents Course — Certificate of Excellence**](https://huggingface.co/datasets/agents-course/final-certificates/resolve/main/certificates/poplolioi11/2026-11-04.png)<br>AI Agents 課程優秀結業證書 · Hugging Face | 2026-11-04 |
 | [Gemini Certified University Student](https://edu.google.accredible.com/89146706-ac8b-448e-8b65-49f61c4e0b6f)<br>Google for Education · Valid until｜有效至 2029-10-24 | 2026-10-24 |
+
+Hugging Face and Kaggle coursework and assessments were AI-assisted.｜Hugging Face 與 Kaggle 課程實作及測驗採用 AI 協助。
 
 <details>
 <summary>More cultural projects｜更多文化作品</summary>
