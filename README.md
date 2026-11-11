@@ -72,13 +72,14 @@ Historical-text projects include AI-assisted drafts and image-based review; they
 <details>
 <summary>Community contributions｜社群貢獻</summary>
 
-Selected submitted pull requests; status checked 2026-11-05.｜已送出的代表性 PR；狀態核對於 2026-11-05。
+Selected pull requests; status checked 2026-11-11.｜代表性 PR；狀態核對於 2026-11-11。
 
 | Contribution｜貢獻 | Status｜狀態 |
 | --- | --- |
 | [Carbon #23847 — Pagination overflow translations](https://github.com/carbon-design-system/carbon/pull/23847)<br>將翻譯回呼傳入分頁溢出控制，補上文件與回歸測試。 | Open｜審查中 |
 | [Adobe Spectrum #6862 — CJK status-light line height](https://github.com/adobe/spectrum-web-components/pull/6862)<br>讓中日韓標籤套用自訂行高並保留預設值。 | Open｜審查中 |
-| [SAP #6431 — Accessible progressbar names](https://github.com/SAP/fundamental-styles/pull/6431)<br>為文件範例的進度列補上無障礙名稱。 | Open｜審查中 |
+| [SAP #6431 — Accessible progressbar names](https://github.com/SAP/fundamental-styles/pull/6431)<br>為文件範例的進度列補上無障礙名稱。 | Merged｜已合併 |
+| [MUI X #24091 — Chinese (Taiwan) locale](https://github.com/mui/mui-x/pull/24091)<br>改善元件的繁體中文（臺灣）語系文字。 | Merged｜已合併 |
 
 I also document reproducible Traditional Chinese / CJK interface issues, including [Carbon’s translated labels](https://github.com/carbon-design-system/carbon/issues/23846) and [Adobe Spectrum’s locale-sensitive line height](https://github.com/adobe/spectrum-web-components/issues/6861). These links record issue reports; resolution status belongs to each upstream project.
 
