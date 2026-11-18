@@ -20,7 +20,8 @@ Medical student in Taiwan exploring **cultural heritage, open data, and creative
 | [Late Qing medical-history texts｜晚清醫學史文獻](projects/medical-history.md) | Ten source-linked Bodleian texts on medicine and medical charity, with TXT/JSON/TEI, uncertain readings, and versioned citations.<br>十件 Bodleian 醫學與醫療慈善史文獻，提供 TXT／JSON／TEI、疑讀與版本引用。 |
 | [Taiwan Public Library Statistics｜臺灣公共圖書館統計](https://github.com/poplolioi11/tw-public-library-statistics) | Explore charts and CSV/SQLite datasets traceable to official sources.<br>查閱圖表與 CSV／SQLite 資料，逐筆回官方來源。 [Open explorer｜開啟圖表](https://poplolioi11.github.io/tw-public-library-statistics/) |
 | [Taiwan Public Museum Conservation Index｜臺灣公立館保存修護索引](https://github.com/poplolioi11/tw-public-museum-conservation) | Find published conservation records with source and coverage notes.<br>查找保存修護公開紀錄，保留來源、涵蓋範圍與缺口。 [Explore records｜查閱原報](https://poplolioi11.github.io/tw-public-museum-conservation/) |
-| [Sitian Kaoyantu｜司天考驗圖](https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu) | An AI-assisted draft transcription with image review, uncertain readings, and versioned files.<br>古籍 AI 輔助初錄與回圖校讀，保留疑讀與版本紀錄。 [Release data｜下載發行資料](https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu/releases/tag/v0.2.0) |
+
+Selected historical-text datasets are indexed in the [NLM Dataset Catalog](https://datasetcatalog.nlm.nih.gov/searchResults?filters=agent%3Apoplolioi11&sort=rel&page=1&size=10).<br>部分古籍資料集已收錄於 NLM Dataset Catalog；連結可查看收錄項目。
 
 ### Interactive experiences｜互動體驗
 
@@ -48,6 +49,7 @@ Medical student in Taiwan exploring **cultural heritage, open data, and creative
 
 - [Yigua Minecraft｜一卦 Minecraft](https://github.com/poplolioi11/yigua-minecraft) — Exploring cultural interaction in a game world.｜探索遊戲中的文化互動。
 - [Wuyingdian I Ching lines｜武英殿本《周易》爻辭](https://github.com/poplolioi11/yigua-wuyingdian-lines)
+- [Sitian Kaoyantu｜司天考驗圖](https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu) — An AI-assisted draft transcription with image review, uncertain readings, and versioned files.<br>古籍 AI 輔助初錄與回圖校讀，保留疑讀與版本紀錄。 [Release data｜下載發行資料](https://github.com/poplolioi11/ms-chin-c25-sitian-kaoyantu/releases/tag/v0.2.0)
 - [Lunyu Xiangdang Tujie｜論語郷黨圖解](https://github.com/poplolioi11/kyoto-rb00009915-lunyu-xiangdang-tujie-1812)
 
 </details>
@@ -96,10 +98,15 @@ I also document reproducible Traditional Chinese / CJK interface issues, includi
 | [Gemini Certified University Student](https://edu.google.accredible.com/89146706-ac8b-448e-8b65-49f61c4e0b6f)<br>Google for Education · Valid until｜有效至 2029-10-24 | 2026-10-24 |
 
 <details>
-<summary>Other course & unit certificates (10)｜其他課程與單元證書（10）</summary>
+<summary>Other course & unit certificates (15)｜其他課程與單元證書（15）</summary>
 
 | Credential｜證書 | Issued｜取得日期 |
 | --- | --- |
+| [Claude Academy — Model Context Protocol: Advanced topics](https://academy.claude.com/verify/0e23776bc241c3fdb574d0e1d7b91196)<br>MCP 進階主題 · Anthropic · Course completion badge｜課程完成證章 | 2026-11-11 |
+| [Claude Academy — Claude Code in action](https://academy.claude.com/verify/678bbff52f4b8728e64edd090b5a3dfd)<br>Claude Code 實作 · Anthropic · Course completion badge｜課程完成證章 | 2026-11-11 |
+| [IBM SkillsBuild — Retrieval-Augmented Generation for Enhanced AI Outputs](https://www.credly.com/badges/2f7f821b-d3f1-400e-9c06-35a4cf33d0cc/public_url)<br>以檢索增強生成提升 AI 輸出 · IBM · Digital credential｜數位證章 | 2026-11-11 |
+| [Databricks — AI Security Fundamentals](assets/certificates/databricks-ai-security-fundamentals-2026-11-11.pdf)<br>AI 安全基礎 · Certificate of Completion｜課程完成證書 | 2026-11-11 |
+| [Databricks — Academy Accreditation: Generative AI Fundamentals](https://credentials.databricks.com/f32c5bcd-b86b-4ea0-af53-cd5f274e316d)<br>生成式 AI 基礎 · Academy Accreditation｜學院基礎認可 | 2026-11-05 |
 | [Kaggle — Intermediate Machine Learning](https://www.kaggle.com/learn/certification/poplolioi11/intermediate-machine-learning)<br>中階機器學習 · Certificate of Completion｜課程完成證書 | 2026-11-05 |
 | [Kaggle — Feature Engineering](https://www.kaggle.com/learn/certification/poplolioi11/feature-engineering)<br>特徵工程 · Certificate of Completion｜課程完成證書 | 2026-11-05 |
 | [Kaggle — Intro to Deep Learning](https://www.kaggle.com/learn/certification/poplolioi11/intro-to-deep-learning)<br>深度學習入門 · Certificate of Completion｜課程完成證書 | 2026-11-05 |
