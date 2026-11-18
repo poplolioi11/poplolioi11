@@ -17,7 +17,7 @@ Medical student in Taiwan exploring **cultural heritage, open data, and creative
 
 | Project｜專案 | What you can use｜可使用的成果 |
 | --- | --- |
-| [Late Qing medical-history texts｜晚清醫學史文獻](projects/medical-history.md) | Ten source-linked Bodleian texts on medicine and medical charity, with TXT/JSON/TEI, uncertain readings, and versioned citations.<br>十件 Bodleian 醫學與醫療慈善史文獻，提供 TXT／JSON／TEI、疑讀與版本引用。 |
+| [Historical Chinese medical texts｜中國醫學史文獻](projects/medical-history.md) | 25 source series from six libraries, including 23 medical-history texts and two related charity registers.<br>六館共 25 個已公開系列，含 23 項醫學史文獻與 2 項相關慈善史帳冊。 |
 | [Taiwan Public Library Statistics｜臺灣公共圖書館統計](https://github.com/poplolioi11/tw-public-library-statistics) | Explore charts and CSV/SQLite datasets traceable to official sources.<br>查閱圖表與 CSV／SQLite 資料，逐筆回官方來源。 [Open explorer｜開啟圖表](https://poplolioi11.github.io/tw-public-library-statistics/) |
 | [Taiwan Public Museum Conservation Index｜臺灣公立館保存修護索引](https://github.com/poplolioi11/tw-public-museum-conservation) | Find published conservation records with source and coverage notes.<br>查找保存修護公開紀錄，保留來源、涵蓋範圍與缺口。 [Explore records｜查閱原報](https://poplolioi11.github.io/tw-public-museum-conservation/) |
 
