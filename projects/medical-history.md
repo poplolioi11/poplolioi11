@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **30 個文獻系列**，含 28 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學和中國國家圖書館各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **32 個文獻系列**，含 30 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **30 source series**: 28 on Chinese medical history and two related charity registers. It covers Bodleian holdings and six other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **32 source series**: 30 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records)
 
@@ -47,6 +47,8 @@ Bracketed English glosses are discovery aids. Each release documents the scope, 
 | 《吳興福音醫院概況》 · 1929 年度<br>Wuxing Fuyin Yiyuan Gaikuang | 醫院沿革、護士教育、院務統計與收支。49 幅。<br>Institutional history, nursing education, statistics, and accounts. 49 scans. | [中國國家圖書館 08jh014197／37820](https://commons.wikimedia.org/?curid=131010099) · [GitHub](https://github.com/poplolioi11/nlc-08jh014197-wuxing-gospel-hospital-report-1929) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24363999) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13115711) |
 | 《寧波華美醫院徵信錄》 · 1930<br>Ningbo Huamei Yiyuan Zhengxinlu | 新院籌建、捐輸名錄、圖版及總帳。77 幅。<br>Building campaign, donor registers, plates, and financial statements. 77 scans. | [中國國家圖書館 08jh014194／37817](https://commons.wikimedia.org/?curid=131010077) · [GitHub](https://github.com/poplolioi11/nlc-08jh014194-ningbo-waimee-hospital-fundraising-1930) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24364507) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13117124) |
 | 《醫家著述目錄》 · 抄年未載<br>Ikachojitsumokuroku | 漢文醫籍題名、卷冊及鈔刻版註。37 幅。<br>A catalogue of literary Chinese medical books and their editions. 37 scans. | [千葉大學 DIG-CBUL-10244／59521](https://doi.org/10.20730/300054644) · [GitHub](https://github.com/poplolioi11/chiba-cbul10244-medical-bibliography) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24364091) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13115891) |
+| 《廣州眼科醫院第四季報》 · 1836<br>The Fourth Quarterly Report of the Ophthalmic Hospital at Canton, for the Term Ending on the 4th of November, 1836 | 廣州眼科醫院的病例與診務，九組表格，兩處明示省略。<br>Canton hospital cases and clinical activity, with nine tables and two marked omissions. | [Yale / Wellcome b21008772](https://wellcomecollection.org/works/ydj7ta22) · [GitHub v0.2.0](https://github.com/poplolioi11/parker-canton-ophthalmic-hospital-fourth-report-1836/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24372015) |
+| 《上海婦孺醫院紀事》 · 約 1891<br>Our Hospital in China | 上海婦孺病房、華人護士訓練與求診敘事。<br>Shanghai wards for women and children, Chinese nurse training and patient narratives. | [Columbia / Burke OCLC 55769934](https://archive.org/details/ourhospitalinchi00dore) · [GitHub v0.2.0](https://github.com/poplolioi11/doremus-our-hospital-in-china-1891/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24371988) |
 
 ## 相關慈善史材料｜Related charity records
 
@@ -62,3 +64,10 @@ Date notes: the Sinica 1240 catalogue heading gives 1859 while its machine date 
 每列代表一個文獻系列。初錄版、修訂版與概念 DOI 共同追蹤同一系列；引用請選實際使用的版本。
 
 Each row identifies a source series. Cite the exact release used.
+
+## 比較醫療史｜Comparative medical history
+
+| 文獻與年代｜Work & date | 內容與範圍｜Content & scope | 來源與版本｜Sources & versions |
+| --- | --- | --- |
+| 《奧斯曼精神病院訪記》 · 1875<br>A Visit to a Turkish Lunatic Asylum | 君士坦丁堡精神病院的院舍、人員與日常照護，一處明示省略。<br>Wards, staff and institutional care in Constantinople, with one marked omission. | [Yale / Wellcome b21028059](https://wellcomecollection.org/works/n7xnsgrb) · [GitHub v0.2.0](https://github.com/poplolioi11/davidson-turkish-lunatic-asylum-1875/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24372006) |
+| 《倫敦聖路加醫院病歷卡填寫指南》 · 1900 至 1910 年代<br>St Luke’s Hospital Card Index Instructions and “Causes of Insanity 1880” Schedule | 示範病歷卡如何登記收治、診斷、轉院及離院結果，內附標題寫 1880 年的病因代碼表。<br>Specimen cards for recording admissions, diagnoses, transfers and discharge outcomes, with the 1880 schedule of cause codes. | [London Metropolitan Archives / Wellcome H64/B/19/026](https://wellcomecollection.org/works/vpentuwa) · [GitHub v0.2.0](https://github.com/poplolioi11/st-lukes-hospital-card-index-h64-b-19-026/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24372255) |
