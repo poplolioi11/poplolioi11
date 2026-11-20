@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **44 個文獻系列**，含 42 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **45 個文獻系列**，含 43 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **44 source series**: 42 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **45 source series**: 43 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records)
 
@@ -61,6 +61,7 @@ Bracketed English glosses are discovery aids. Each release documents the scope, 
 | 《㽲痛切痛同附陰陽易病辨誤》 · 1851、1849 年署記<br>Kōtsū settsū dō, with In’yō ekibyō bengo [Abdominal-pain terminology and textual notes] | 多紀元佶兩篇漢文醫籍考證，比較㽲痛、切痛與《傷寒論》病名用字。<br>Two Literary Chinese essays by Taki Genkitsu on pain terminology and variants of a disease name in the Shanghan lun. | [京都大學 RB00001243](https://rmda.kulib.kyoto-u.ac.jp/item/rb00001243) · [GitHub v0.2.0](https://github.com/poplolioi11/kyoto-rb00001243-kotsu-settsu-do/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24403308) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13201121) |
 | 《醫案》 · 1920–1922 年病例索引<br>Yi an [Medical case histories] | 漢文醫案手稿的題頭、地名、抄記與逐幅影像入口。<br>Factual case headings, place labels and copying-date locator for the Berlin manuscript. | [柏林國家圖書館 Slg. Unschuld 8368](https://resolver.staatsbibliothek-berlin.de/SBB0003559B00000000) · [GitHub v0.2.0](https://github.com/poplolioi11/berlin-ppn1867481944-yi-an/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24403375) |
 | 《辨癲癇狂》 · 1846 年署記<br>Bentenkankyō [Distinguishing dian, xian, and kuang] | 森直方用漢文辨析癲、癇與狂的發作形貌、古書用語與醫說。<br>Mori’s Literary Chinese study of historical categories of mental disturbance and descriptions of episodes. | [京都大學 RB00005029](https://rmda.kulib.kyoto-u.ac.jp/item/rb00005029) · [GitHub v0.2.0](https://github.com/poplolioi11/kyoto-rb00005029-bentenkankyo/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24403675) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13201374) |
+| 《南涯先生治驗錄》 · 1831 年抄記<br>Nangai sensei chikenroku [Clinical records of Yoshimasu Nangai] | 吉益南涯的漢文醫案集，保留病家求診、病程、照護過程與抄年。<br>Literary Chinese case records of Yoshimasu Nangai with histories of consultation and care and a copying colophon. | [京都大學 RB00004575](https://rmda.kulib.kyoto-u.ac.jp/item/rb00004575) · [GitHub v0.2.0](https://github.com/poplolioi11/kyoto-rb00004575-nangai-chikenroku/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24403913) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13201592) |
 
 ## 相關慈善史材料｜Related charity records
 
