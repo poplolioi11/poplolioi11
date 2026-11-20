@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **55 個文獻系列**，含 53 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **56 個文獻系列**，含 54 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **55 source series**: 53 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **56 source series**: 54 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records)
 
@@ -72,6 +72,7 @@ Bracketed English glosses are discovery aids. Each release documents the scope, 
 | 《鴉片速改文》 · 1835 年新加坡刊<br>Ya pian su gai wen [An Urgent Appeal to Give Up Opium] | 仁愛者編撰的漢文戒鴉片勸戒文，分談身體、家計、社會及宗教生活。<br>An 1835 Chinese anti-opium pamphlet from Singapore, with sections on bodily harm, family welfare, social obligations, and spiritual life. | [牛津大學 Sinica 1270](https://digital.bodleian.ox.ac.uk/objects/df5ed318-42b4-43f6-809c-ab7b15f9f9fb/) · [GitHub v0.2.0](https://github.com/poplolioi11/bodleian-sinica1270-ya-pian-su-gai-wen/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24405299) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13206147) |
 | 《海上醫宗心領卷六十一・醫陽案》 · 1885 年北寧刊<br>Hải Thượng y tông tâm lĩnh, quyển 61: Y dương án [Case records of favorable outcomes] | 黎有卓的漢文驗案，記個別診察及照護經過。依原圖內題著錄卷六十一，公開文字有局部省錄。<br>Lê Hữu Trác’s Literary Chinese medical case accounts, following the printed boundaries of volume 61. Local omissions are marked. | [越南國家圖書館 R.1169](https://lib.nomfoundation.org/collection/1/volume/392/) · [GitHub v0.2.0](https://github.com/poplolioi11/nom-nlv1169v61-y-duong-an/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24405468) |
 | 《鴉片煙之害》 · 約 1880–1890 年漢口印發<br>Ya pian yan zhi hai [The Harms of Opium Smoking] | 漢口聖教書局戒鴉片單張，分十一條談論家計、時間、身體及倫理生活。<br>A Hankou anti-opium broadside with eleven arguments on finances, time, the body, and daily responsibilities. | [牛津大學 Sinica 6531](https://digital.bodleian.ox.ac.uk/objects/6d3b6e92-bd5d-4b53-a3d0-167cb19b920f/) · [GitHub v0.2.0](https://github.com/poplolioi11/bodleian-sinica6531-ya-pian-yan-zhi-hai/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24405591) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13207065) |
+| 《煙酒並戒》 · 約 1882 年印發<br>Yan jiu bing jie [Rum and Opium] | 中國聖教書會戒鴉片與飲酒單張，有個人敘例、插圖及雙語版記。<br>A Chinese Religious Tract Society broadside on opium and drink, with an individual story, illustration, and bilingual publishing lines. | [牛津大學 Sinica 494(4)](https://digital.bodleian.ox.ac.uk/objects/d587ae0e-5e03-4d61-8da3-e12ba23980fa/) · [GitHub v0.2.0](https://github.com/poplolioi11/bodleian-sinica0494p4-yan-jiu-bing-jie/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24405647) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13207312) |
 
 ## 相關慈善史材料｜Related charity records
 
