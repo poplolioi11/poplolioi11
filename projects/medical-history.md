@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **39 個文獻系列**，含 37 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **40 個文獻系列**，含 38 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **39 source series**: 37 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **40 source series**: 38 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records)
 
@@ -56,6 +56,7 @@ Bracketed English glosses are discovery aids. Each release documents the scope, 
 | 《長沙醫話初編》 · 1853 年刊面<br>Chōsa iwa shohen [Medical discussions on Zhang Zhongjing, first series] | 岸田雲以漢文評議《傷寒論》、醫案、譯書和醫者養成，並記讀錯方名的實例。<br>Kishida Un’s Literary Chinese discussions of the Shanghan lun, case experience, physicians’ training and translation. | [九州大學 NIJL 100348103](https://kokusho.nijl.ac.jp/biblio/100348103) · [GitHub v0.2.0](https://github.com/poplolioi11/kyushu-nijl100348103-chosa-iwa/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24401205) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13200975) |
 | 《醫事譚》 · 1779 年<br>Iji dan [Conversations on medical practice] | 田中信藏以漢文記個別病者的求醫、觀察及照護，並論醫者讀書與古方。<br>Tanaka Tekisho’s Literary Chinese accounts of individual consultations and reflections on medical practice. | [九州大學 NIJL 100262147](https://kokusho.nijl.ac.jp/biblio/100262147) · [GitHub v0.2.0](https://github.com/poplolioi11/kyushu-nijl100262147-ijidan/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24402222) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13201091) |
 | 《醫事難問附治驗一條》 · 江戶時代抄本<br>Iji nanmon, with Chiken ichijō [Medical questions and an appended case report] | 澁江道陸的漢文醫學問答及附篇《治驗一條》，含醫者往返和圖上文字。<br>The Shibue Dōriku manuscript preserves clinical questions, the appended case account, correspondence and diagram labels. | [京都大學 RB00001002](https://rmda.kulib.kyoto-u.ac.jp/item/rb00001002) · [GitHub v0.2.0](https://github.com/poplolioi11/kyoto-rb00001002-iji-nanmon/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24402741) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13201098) |
+| 《飲病論》 · 1754 年刊記、1789 年廣告<br>Inbyōron [Treatise on Inbyō and clinical cases] | 石崎淳古以漢文辨飲病與中風，保存原刊記及後附書肆廣告。轉錄省錄一則小注。<br>Ishizaki Junko’s Literary Chinese case discussions, with a 1754 colophon and 1789 bookseller advertisement. One small note is omitted. | [國文學研究資料館 NIJL 200022060](https://kokusho.nijl.ac.jp/biblio/200022060) · [GitHub v0.2.0](https://github.com/poplolioi11/nijl200022060-inbyoron/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24402986) |
 
 ## 相關慈善史材料｜Related charity records
 
