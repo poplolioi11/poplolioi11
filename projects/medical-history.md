@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **37 個文獻系列**，含 35 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **38 個文獻系列**，含 36 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **37 source series**: 35 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **38 source series**: 36 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records)
 
@@ -54,6 +54,7 @@ Bracketed English glosses are discovery aids. Each release documents the scope, 
 | 《廣州眼科醫院第四季報》 · 1836<br>The Fourth Quarterly Report of the Ophthalmic Hospital at Canton, for the Term Ending on the 4th of November, 1836 | 廣州眼科醫院的病例與診務，九組表格，兩處明示省略。<br>Canton hospital cases and clinical activity, with nine tables and two marked omissions. | [Yale / Wellcome b21008772](https://wellcomecollection.org/works/ydj7ta22) · [GitHub v0.2.0](https://github.com/poplolioi11/parker-canton-ophthalmic-hospital-fourth-report-1836/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24372015) |
 | 《上海婦孺醫院紀事》 · 約 1891<br>Our Hospital in China | 上海婦孺病房、華人護士訓練與求診敘事。<br>Shanghai wards for women and children, Chinese nurse training and patient narratives. | [Columbia / Burke OCLC 55769934](https://archive.org/details/ourhospitalinchi00dore) · [GitHub v0.2.0](https://github.com/poplolioi11/doremus-our-hospital-in-china-1891/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24371988) |
 | 《長沙醫話初編》 · 1853 年刊面<br>Chōsa iwa shohen [Medical discussions on Zhang Zhongjing, first series] | 岸田雲以漢文評議《傷寒論》、醫案、譯書和醫者養成，並記讀錯方名的實例。<br>Kishida Un’s Literary Chinese discussions of the Shanghan lun, case experience, physicians’ training and translation. | [九州大學 NIJL 100348103](https://kokusho.nijl.ac.jp/biblio/100348103) · [GitHub v0.2.0](https://github.com/poplolioi11/kyushu-nijl100348103-chosa-iwa/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24401205) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13200975) |
+| 《醫事譚》 · 1779 年<br>Iji dan [Conversations on medical practice] | 田中信藏以漢文記個別病者的求醫、觀察及照護，並論醫者讀書與古方。<br>Tanaka Tekisho’s Literary Chinese accounts of individual consultations and reflections on medical practice. | [九州大學 NIJL 100262147](https://kokusho.nijl.ac.jp/biblio/100262147) · [GitHub v0.2.0](https://github.com/poplolioi11/kyushu-nijl100262147-ijidan/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24402222) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13201091) |
 
 ## 相關慈善史材料｜Related charity records
 
