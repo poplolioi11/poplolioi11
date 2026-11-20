@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **41 個文獻系列**，含 39 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **42 個文獻系列**，含 40 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **41 source series**: 39 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **42 source series**: 40 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records)
 
@@ -58,6 +58,7 @@ Bracketed English glosses are discovery aids. Each release documents the scope, 
 | 《醫事難問附治驗一條》 · 江戶時代抄本<br>Iji nanmon, with Chiken ichijō [Medical questions and an appended case report] | 澁江道陸的漢文醫學問答及附篇《治驗一條》，含醫者往返和圖上文字。<br>The Shibue Dōriku manuscript preserves clinical questions, the appended case account, correspondence and diagram labels. | [京都大學 RB00001002](https://rmda.kulib.kyoto-u.ac.jp/item/rb00001002) · [GitHub v0.2.0](https://github.com/poplolioi11/kyoto-rb00001002-iji-nanmon/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24402741) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13201098) |
 | 《飲病論》 · 1754 年刊記、1789 年廣告<br>Inbyōron [Treatise on Inbyō and clinical cases] | 石崎淳古以漢文辨飲病與中風，保存原刊記及後附書肆廣告。轉錄省錄一則小注。<br>Ishizaki Junko’s Literary Chinese case discussions, with a 1754 colophon and 1789 bookseller advertisement. One small note is omitted. | [國文學研究資料館 NIJL 200022060](https://kokusho.nijl.ac.jp/biblio/200022060) · [GitHub v0.2.0](https://github.com/poplolioi11/nijl200022060-inbyoron/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24402986) |
 | 《醫案》 · 1837 年抄記<br>Ian [Case records of Wada Tōkaku and other physicians] | 漢文醫案按原圖保存診察、日期與分篇署款。首案署和田璞，後篇另見源元凱。<br>Clinical case records with consultation dates and signatures, including Wada Tōkaku and Minamoto Genkai. | [京都大學 RB00000824](https://rmda.kulib.kyoto-u.ac.jp/en/item/rb00000824) · [GitHub v0.2.0](https://github.com/poplolioi11/kyoto-rb00000824-ian/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24403029) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13201105) |
+| 《㽲痛切痛同附陰陽易病辨誤》 · 1851、1849 年署記<br>Kōtsū settsū dō, with In’yō ekibyō bengo [Abdominal-pain terminology and textual notes] | 多紀元佶兩篇漢文醫籍考證，比較㽲痛、切痛與《傷寒論》病名用字。<br>Two Literary Chinese essays by Taki Genkitsu on pain terminology and variants of a disease name in the Shanghan lun. | [京都大學 RB00001243](https://rmda.kulib.kyoto-u.ac.jp/item/rb00001243) · [GitHub v0.2.0](https://github.com/poplolioi11/kyoto-rb00001243-kotsu-settsu-do/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24403308) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13201121) |
 
 ## 相關慈善史材料｜Related charity records
 
