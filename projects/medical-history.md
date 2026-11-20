@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **62 個文獻系列**，含 60 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **63 個文獻系列**，含 61 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **62 source series**: 60 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **63 source series**: 61 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records)
 
@@ -79,6 +79,7 @@ Bracketed English glosses are discovery aids. Each release documents the scope, 
 | 《醫事答問》 · 1846 年謄寫題記<br>Iji tōmon [Questions and answers on the practice of medicine] | 桃井安貞記錄吉益東洞漢文醫學問答，卷末明記二十五章及抄款。<br>Twenty-five Literary Chinese dialogues on medicine attributed to Yoshimasu Tōdō, with source-locatable internal titles and copying note. | [京都大學 RB00001001](https://rmda.kulib.kyoto-u.ac.jp/item/rb00001001) · [GitHub v0.2.0](https://github.com/poplolioi11/kyoto-rb00001001-iji-tomon/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24406194) |
 | 《致 W. Cardwell 求醫信》 · 年代未詳<br>Chinese manuscript letter to W. Cardwell [An illustrated request for medical help] | 患者漢文求醫書札，將疼痛與身體感受寫成直欄，並附自繪人物。受信人依館目。<br>A Chinese patient letter describing bodily distress and requesting help, with a drawn figure and separate figure labels. | [Wellcome Collection Or Chinese, 13](https://wellcomecollection.org/works/ad3ygayb) · [GitHub v0.2.0](https://github.com/poplolioi11/wellcome-ad3ygayb-cardwell-patient-letter/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24406306) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13209752) |
 | 《毒枷》 · 1910 年印發<br>Du jia [The Poison Cangue]: An illustrated anti-opium broadside | 宣統二年白話禁煙圖文單，以刑枷譬喻鴉片成癮。正文、大字、署款與圖中文字分錄。<br>A 1910 vernacular anti-opium broadside representing smoking as a cangue, with separate transcription of the main text, slogan, and labels. | [Wellcome Collection Or Chinese, 95](https://wellcomecollection.org/works/cw5rywbe) · [GitHub v0.2.0](https://github.com/poplolioi11/wellcome-cw5rywbe-du-jia/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24406378) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13209887) |
+| 《斷醫譚》 · 寫抄年代未詳，1918 年底本入藏印<br>Dan’itan [Discussions on Medical Judgment] | 漢文醫論抄本，由〈方法〉到〈壞病〉，論辨證、醫學分類及病勢判別。<br>An anonymous Literary Chinese manuscript on medical judgment, clinical categories and the progression of illness. | [京都大學 RB00004060](https://rmda.kulib.kyoto-u.ac.jp/item/rb00004060) · [GitHub v0.2.0](https://github.com/poplolioi11/kyoto-rb00004060-danitan/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24406713) |
 
 ## 相關慈善史材料｜Related charity records
 
