@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **50 個文獻系列**，含 48 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **51 個文獻系列**，含 49 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **50 source series**: 48 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **51 source series**: 49 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records)
 
@@ -67,6 +67,7 @@ Bracketed English glosses are discovery aids. Each release documents the scope, 
 | 《一本堂行餘醫言卷之五》 · 江戶刊本<br>Ippondō kōyo igen, volume 5 [Discussions of historical medical categories and case accounts] | 香川修德醫論卷五，含癇、驚、癲、狂等歷史分類、個別病例和附字辨。<br>Volume five of Kagawa Shūtoku’s Literary Chinese work with historical categories, case accounts, and a philological appendix. | [日本國立公文書館 195-0193-0005](https://www.digital.archives.go.jp/item/4250410) · [GitHub v0.2.0](https://github.com/poplolioi11/naj-4250410-ippondo-koyo-igen-volume-5/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24404471) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13203475) |
 | 《成蹟錄》 · 1821 年序<br>Seisekiroku [Collected medical cases of Yoshimasu Nangai] | 中川壺山輯錄吉益南涯診療個案，上下兩卷另收方名出處及附篇。<br>Nakagawa Kozan’s two-volume Literary Chinese collection of Yoshimasu Nangai’s medical cases, with a concordance of referenced works and appended writings. | [京都大學 RB00000295](https://rmda.kulib.kyoto-u.ac.jp/item/rb00000295) · [GitHub v0.2.0](https://github.com/poplolioi11/kyoto-rb00000295-seisekiroku/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24404825) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13204102) |
 | 《診病筆記》 · 正文記 1837 年<br>Shinbyō hikki [Diagnostic notes and case records] | 三宅均的漢文診病筆記，保存具名個案、病程和診察，區分後附詩稿。<br>Literary Chinese diagnostic notes attributed to 三宅均, preserving named cases, courses of illness, and observations separately from the appended poetry. | [慶應義塾大學 F-シ-191](https://kokusho.nijl.ac.jp/biblio/100242589) · [GitHub v0.2.0](https://github.com/poplolioi11/nijl100242589-shinbyo-hikki/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24404854) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13204361) |
+| 《疝癥積聚編》 · 1787 年刊<br>Senchō sekishūhen [Medical discussions and case records on shan and abdominal accumulations] | 大橋尚因論古代疝與積聚，另記具名病例及病程。刊行版有局部省錄並附定位。<br>Ohashi Shōin’s Literary Chinese discussions of shan and abdominal accumulations with individual cases. The edition identifies local omissions. | [京都大學 RB00003851](https://rmda.kulib.kyoto-u.ac.jp/item/rb00003851) · [GitHub v0.2.0](https://github.com/poplolioi11/kyoto-rb00003851-sencho-sekishuhen/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24404967) |
 
 ## 相關慈善史材料｜Related charity records
 
