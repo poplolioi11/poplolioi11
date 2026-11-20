@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **58 個文獻系列**，含 56 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **59 個文獻系列**，含 57 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **58 source series**: 56 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **59 source series**: 57 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records)
 
@@ -75,6 +75,7 @@ Bracketed English glosses are discovery aids. Each release documents the scope, 
 | 《煙酒並戒》 · 約 1882 年印發<br>Yan jiu bing jie [Rum and Opium] | 中國聖教書會戒鴉片與飲酒單張，有個人敘例、插圖及雙語版記。<br>A Chinese Religious Tract Society broadside on opium and drink, with an individual story, illustration, and bilingual publishing lines. | [牛津大學 Sinica 494(4)](https://digital.bodleian.ox.ac.uk/objects/d587ae0e-5e03-4d61-8da3-e12ba23980fa/) · [GitHub v0.2.0](https://github.com/poplolioi11/bodleian-sinica0494p4-yan-jiu-bing-jie/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24405647) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13207312) |
 | 《醫學說疑卷四》 · 十九世紀末抄本<br>Y học thuyết nghi, quyển 4 [Questions on historical medicine, volume four] | 越南漢文醫學問答卷四，含顛狂專問。保留書衣題《醫學說疑》及卷內倒題。<br>A Vietnamese Literary Chinese medical question-and-answer manuscript with a discussion of dian-kuang. Distinct catalogue and internal titles are retained. | [越南國家圖書館 R.1963](https://lib.nomfoundation.org/collection/1/volume/574/) · [GitHub v0.2.0](https://github.com/poplolioi11/nom-nlv1963v04-y-hoc-thuyet-nghi/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24405671) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13207323) |
 | 《醫學院學範卷二》 · 江戶時代刊本<br>Igakuin gakuhan, maki 2 [Rules of the Medical Academy, volume two] | 畑柳安的漢文醫學教育著作卷二，首篇〈醫學講習〉論學醫次序及醫籍。<br>Volume two of Hata Ryūan’s Literary Chinese work on medical study, pedagogy, and medical literature. | [日本國立國會圖書館 特1-406](https://dl.ndl.go.jp/pid/2555806) · [GitHub v0.2.0](https://github.com/poplolioi11/ndl2555806-igakuin-gakuhan-volume-2/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24405960) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13208026) |
+| 《藥文》 · 十九世紀抄本（推定）<br>Dược văn [Discourse on medical diagnosis] | 越南漢文問診醫論，按原圖保留字形、改筆與朱點。另連結同底本既有 OCR。<br>A Literary Chinese medical discourse from Vietnam, with source-linked readings, manuscript corrections, and reference to earlier OCR. | [越南國家圖書館 R.312](https://lib.nomfoundation.org/collection/1/volume/951/) · [GitHub v0.2.0](https://github.com/poplolioi11/nom-nlv0312v01-duoc-van/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24406088) |
 
 ## 相關慈善史材料｜Related charity records
 
