@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **48 個文獻系列**，含 46 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **49 個文獻系列**，含 47 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **48 source series**: 46 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **49 source series**: 47 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records)
 
@@ -65,6 +65,7 @@ Bracketed English glosses are discovery aids. Each release documents the scope, 
 | 《芳翁醫談》 · 1796 年跋<br>Hō-ō idan [Medical conversations of Fukushima Hōō] | 福島芳翁口述、中川壺山筆錄的漢文醫談，含個別病例與日夜觀察紀錄。公開轉錄有六段省錄。<br>Literary Chinese case accounts and day-and-night patient observations. Six passages are omitted. | [京都大學 RB00005046](https://rmda.kulib.kyoto-u.ac.jp/item/rb00005046) · [GitHub v0.2.0](https://github.com/poplolioi11/kyoto-rb00005046-ho-o-idan/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24404044) |
 | 《癲癇狂經驗編》 · 1819 年江戶刊<br>Tenkankyō keikenhen [Case records concerning dian, xian, and kuang] | 土田獻的癲、癇與狂漢文病例集，含家屬觀察、求診及病程。<br>Tsuchida’s Literary Chinese casebook with family observations, consultations and courses of illness. | [京都大學 RB00004270](https://rmda.kulib.kyoto-u.ac.jp/item/rb00004270) · [GitHub v0.2.0](https://github.com/poplolioi11/kyoto-rb00004270-tenkankyo-keikenhen/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24404218) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13202040) |
 | 《一本堂行餘醫言卷之五》 · 江戶刊本<br>Ippondō kōyo igen, volume 5 [Discussions of historical medical categories and case accounts] | 香川修德醫論卷五，含癇、驚、癲、狂等歷史分類、個別病例和附字辨。<br>Volume five of Kagawa Shūtoku’s Literary Chinese work with historical categories, case accounts, and a philological appendix. | [日本國立公文書館 195-0193-0005](https://www.digital.archives.go.jp/item/4250410) · [GitHub v0.2.0](https://github.com/poplolioi11/naj-4250410-ippondo-koyo-igen-volume-5/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24404471) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13203475) |
+| 《成蹟錄》 · 1821 年序<br>Seisekiroku [Collected medical cases of Yoshimasu Nangai] | 中川壺山輯錄吉益南涯診療個案，上下兩卷另收方名出處及附篇。<br>Nakagawa Kozan’s two-volume Literary Chinese collection of Yoshimasu Nangai’s medical cases, with a concordance of referenced works and appended writings. | [京都大學 RB00000295](https://rmda.kulib.kyoto-u.ac.jp/item/rb00000295) · [GitHub v0.2.0](https://github.com/poplolioi11/kyoto-rb00000295-seisekiroku/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24404825) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13204102) |
 
 ## 相關慈善史材料｜Related charity records
 
