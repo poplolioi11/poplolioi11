@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **80 個文獻系列**，含 78 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **81 個文獻系列**，含 79 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **80 source series**: 78 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **81 source series**: 79 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records)
 
@@ -97,6 +97,7 @@ Bracketed English glosses are discovery aids. Each release documents the scope, 
 | 《《點石齋畫報》上海同仁醫院個案二則》 · 1884 與 1895 年刊<br>Dian shi zhai hua bao [Two Cases at Tongren Hospital in Shanghai] | 兩則上海同仁醫院個案，記女醫看診、一名婦人治療後轉歸，以及一名幼兒經會診後暫緩處置。<br>Two Shanghai Tongren Hospital case reports on a woman’s care and a child’s consultation and deferred treatment. | [巴伐利亞邦立圖書館 bsb00075644、bsb00075647](https://opacplus.bsb-muenchen.de/title/BV040390393) · [GitHub v0.2.0](https://github.com/poplolioi11/bsb-dianshizhai-tongren-hospital-cases/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24410963) · [維基文庫 1](https://zh.wikisource.org/wiki/Special:PermanentLink/13234978) · [維基文庫 2](https://zh.wikisource.org/wiki/Special:PermanentLink/13234988) |
 | 《《點石齋畫報》〈瞽目復明〉》 · 1892 年刊<br>Gu mu fu ming [Sight Restored] | 《點石齋畫報》記福州一名眼疾患者赴濟世醫館求診及報刊寫下的轉歸。<br>An illustrated report of a patient seeking eye care in Fuzhou and the outcome reported in the periodical. | [巴伐利亞邦立圖書館 bsb00075646](https://opacplus.bsb-muenchen.de/title/BV040390408) · [GitHub v0.2.0](https://github.com/poplolioi11/bsb-dianshizhai-fuzhou-eye-case-1892/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24410991) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13235102) |
 | 《瘋人逃脫》 · 1913-01-25<br>Feng ren tao tuo [Three Patients Leave an Asylum] | 報載精神病院三人離院，一人由巡警帶回。<br>Three patients leave a mental institution, and a police officer brings one back. | [Tung Wah Times, 1913-01-25, p. 7, NLA news-page24092556](https://trove.nla.gov.au/newspaper/page/24092556) · [GitHub v0.2.0](https://github.com/poplolioi11/trove24092556-asylum-escape/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24411687) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13238124) |
+| 《華人染有瘋症》 · 1928-06-09<br>Hua ren ran you feng zheng [Reassessment of a Chinese Patient in Hospital] | 一名華人住院六星期後，衛生局醫生重新察看。<br>After six weeks in hospital a Chinese patient is reassessed by a health department physician. | [Tung Wah Times, 1928-06-09, p. 8, NLA news-page24098840](https://trove.nla.gov.au/newspaper/page/24098840) · [GitHub v0.2.0](https://github.com/poplolioi11/trove24098840-liverpool-hospital-case/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24411738) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13238379) |
 
 ## 相關慈善史材料｜Related charity records
 
