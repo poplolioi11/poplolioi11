@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **98 個文獻系列**，含 96 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **99 個文獻系列**，含 97 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **98 source series**: 96 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **99 source series**: 97 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records) · [報刊精神醫學史｜Mental health history in the press](#mental-distress-and-care-in-the-press)
 
@@ -132,6 +132,7 @@ These 20 articles (1884–1928) from the *Dianshizhai Pictorial*, *Tung Wah News
 | 《瘋疾潛來雪梨》 · 1925-11-28<br>Feng ji qian lai Xueli [A Chinese Man Reported Travelling to Sydney] | 原報據加立頓消息，記一名被懷疑患瘋疾的華人往雪梨，以及地方警察通報的經過。<br>The newspaper describes a Chinese man believed to be mentally unwell who travelled to Sydney, and the local police response. | [Tung Wah Times, 1925-11-28, p. 7, NLA news-page24101368](https://trove.nla.gov.au/newspaper/page/24101368) · [GitHub v0.2.0](https://github.com/poplolioi11/trove24101368a-sydney-arrival/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24412600) · 維基文庫草稿待人工覆核 |
 | 《革員病瘋》 · 1884<br>Ge yuan bing feng [A Dismissed Official Assessed as Mentally Unwell] | 《點石齋畫報》甲六〈革員病瘋〉記一位被革職的候補知縣到文廟門前，地方官因其形跡可疑而命人搜問。<br>The Dianshizhai Pictorial report follows a dismissed county magistrate candidate who appeared outside a Confucian temple. | [BSB bsb00075644, scan 54](https://www.digitale-sammlungen.de/en/view/bsb00075644?page=54) · [GitHub v0.2.0](https://github.com/poplolioi11/bsb00075644f054-official-assessment/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24412630) · 維基文庫草稿待人工覆核 |
 | 《瘋婦投河》 · 1886<br>Feng fu tou he [A Woman in Distress and Her Rescue] | 《點石齋畫報》辛二〈瘋婦投河〉記一位京城婦女行為失常，其十六七歲的兒子見狀請旁人相助。<br>The Dianshizhai Pictorial recounts an incident in Beijing in which a woman in distress went into a canal and her teenage son asked bystanders to assist. | [BSB bsb00075644, scan 735](https://www.digitale-sammlungen.de/en/view/bsb00075644?page=735) · [GitHub v0.2.0](https://github.com/poplolioi11/bsb00075644f735-family-rescue/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24412679) · 維基文庫草稿待人工覆核 |
+| 《瘋人誣婦》 · 1895<br>Feng ren wu fu [An Accusation, Family Testimony and Official Inquiry] | 《點石齋畫報》御十〈瘋人誣婦〉記一名自稱遭妻毆傷的明經前往官署。<br>The Dianshizhai Pictorial recounts the case of a scholar who went to a magistrate’s office and accused his wife of injuring him. | [BSB bsb00075647, scan 381](https://www.digitale-sammlungen.de/en/view/bsb00075647?page=381) · [GitHub v0.2.0](https://github.com/poplolioi11/bsb00075647f381-oral-testimony/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24412723) · 維基文庫草稿待人工覆核 |
 
 ## 相關慈善史材料｜Related charity records
 
