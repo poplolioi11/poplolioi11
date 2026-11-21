@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **65 個文獻系列**，含 63 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **66 個文獻系列**，含 64 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **65 source series**: 63 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **66 source series**: 64 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records)
 
@@ -82,6 +82,7 @@ Bracketed English glosses are discovery aids. Each release documents the scope, 
 | 《斷醫譚》 · 寫抄年代未詳，1918 年底本入藏印<br>Dan’itan [Discussions on Medical Judgment] | 漢文醫論抄本，由〈方法〉到〈壞病〉，論辨證、醫學分類及病勢判別。<br>An anonymous Literary Chinese manuscript on medical judgment, clinical categories and the progression of illness. | [京都大學 RB00004060](https://rmda.kulib.kyoto-u.ac.jp/item/rb00004060) · [GitHub v0.2.0](https://github.com/poplolioi11/kyoto-rb00004060-danitan/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24406713) |
 | 《宮外妊娠治驗》 · 1854 年署記<br>Kyūgai ninshin chiken [Case record of an extrauterine pregnancy] | 鎌田昌琢的漢文病例，記醫者會商、家屬意願與照護，附手繪及原圖定位。<br>A Literary Chinese case record by the Sōma physician 鎌田昌琢, documenting consultation, the family's wishes, and follow-up care with a hand-drawn figure. | [京都大學富士川文庫 キ/58（RB00001888）](https://rmda.kulib.kyoto-u.ac.jp/item/rb00001888) · [GitHub v0.2.0](https://github.com/poplolioi11/kyoto-rb00001888-kyugai-ninshin-chiken/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24409900) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13229221) |
 | 《《臥牛醫案》〈醫案〉》 · 1815 年署記<br>Gagyū ian, Ian [An essay on digestive disorders] | 《臥牛醫案》中的完整具題短篇〈醫案〉，記飲食致病見聞與歷史病名辨析，保留署款異文。<br>A separately titled essay from Gagyū ian on historical categories of digestive illness and observations of food-related illness. | [京都大學富士川文庫 カ/86（RB00001552）](https://rmda.kulib.kyoto-u.ac.jp/item/rb00001552) · [GitHub v0.2.0](https://github.com/poplolioi11/kyoto-rb00001552-gagyu-ian/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24410001) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13230102) |
+| 《子宮外孕胎經驗》 · 1857 年署記<br>Shikyūgai yōtai keiken [Case record of an extrauterine pregnancy] | 高橋一貫桃源的全篇漢文病例與三宅春齡序，記病人經過、醫者診察與照護結果，附同裝和文篇界。<br>A complete Literary Chinese case and preface, documenting a prolonged illness, consultation and care outcomes with the separate Japanese appendix located. | [千葉大學 86694（NIJL 300055616）](https://doi.org/10.20730/300055616) · [GitHub v0.2.0](https://github.com/poplolioi11/nijl300055616-shikyugai-yotai-keiken/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24410024) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13230116) |
 
 ## 相關慈善史材料｜Related charity records
 
