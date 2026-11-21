@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **74 個文獻系列**，含 72 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **75 個文獻系列**，含 73 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **74 source series**: 72 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **75 source series**: 73 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records)
 
@@ -91,6 +91,7 @@ Bracketed English glosses are discovery aids. Each release documents the scope, 
 | 《瘍科方之內〔瘍科圖錄〕》 · 1855 年個案記事<br>Yōka zuroku [Illustrated surgical atlas] | 完整索引彩繪外科圖冊96圖的圖題、旁記及位置，保留無題圖和同案相連圖。<br>Captions, annotations and links to 96 historical surgical illustrations, including untitled and related views. | [京都大學 RB00005563](https://rmda.kulib.kyoto-u.ac.jp/item/rb00005563) · [GitHub v0.2.0](https://github.com/poplolioi11/kyoto-rb00005563-yoka-zuroku/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24410548) |
 | 《檳城南華醫院招考與發榜（《檳城新報》，1906）》 · 1906 年8月8日與9月20日<br>Bincheng Nanhua yiyuan zhao kao yu fa bang [The Nam Wah Ee Hospital Recruitment Examination and Results] | 兩則報刊原文記47人到考、評卷安排及錄用者。兩期對評卷機構的記述各依原刊保留。<br>Two issues record 47 examinees and the appointed physicians, preserving the newspapers’ differing accounts of who would grade the scripts. | [新加坡國立大學圖書館《檳城新報》](https://lib.nus.edu.sg/sea_chinese/documents/Penang%20sin%20poe/Penang%20sin%20poe%201906_Aug.html) · [GitHub v0.2.0](https://github.com/poplolioi11/penang-sin-poe-1906-nam-wah-ee-hospital-recruitment/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24410589) · [維基文庫 1](https://zh.wikisource.org/wiki/Special:PermanentLink/13233527) · [維基文庫 2](https://zh.wikisource.org/wiki/Special:PermanentLink/13233537) |
 | 《護産廳小日記》 · 1897 年<br>Hosan-cheong so ilgi [Daily Records of the Royal Maternity Directorate for Consort Eom] | 護産廳記慶運宮嚴氏和新生兒的逐日照護、膳食、授乳與醫官值勤。<br>The Maternity Office’s diary records postpartum and newborn care at Gyeongungung Palace, including meals, nursing and staffing. | [韓國學中央研究院藏書閣 K2-3618](https://jsg.aks.ac.kr/dir/view?dataId=JSG_K2-3618) · [GitHub v0.2.0](https://github.com/poplolioi11/aks-k2-3618-royal-maternity-diary/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24410620) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13233556) |
+| 《《點石齋畫報》西醫院照護二則》 · 1886 年刊<br>Dian shi zhai hua bao [Two Reports on Hospital Care] | 《點石齋畫報》兩則報導記北京施醫院問診時的口譯及福州濟世醫院火災中病患撤離。<br>Two illustrated reports on interpretation in a Beijing mission hospital and evacuation of patients in the Fuzhou hospital fire. | [巴伐利亞邦立圖書館 bsb00075644](https://opacplus.bsb-muenchen.de/title/BV040390393) · [GitHub v0.2.0](https://github.com/poplolioi11/bsb-dianshizhai-hospital-care-1886/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24410657) · [維基文庫 1](https://zh.wikisource.org/wiki/Special:PermanentLink/13233853) · [維基文庫 2](https://zh.wikisource.org/wiki/Special:PermanentLink/13233864) |
 
 ## 相關慈善史材料｜Related charity records
 
