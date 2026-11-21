@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **95 個文獻系列**，含 93 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **96 個文獻系列**，含 94 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **95 source series**: 93 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **96 source series**: 94 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records) · [報刊精神醫學史｜Mental health history in the press](#mental-distress-and-care-in-the-press)
 
@@ -129,6 +129,7 @@ These 20 articles (1884–1928) from the *Dianshizhai Pictorial*, *Tung Wah News
 | 《華人癲狂殺人之慘事》 · 1906-08-25<br>Huaren dian kuang sha ren zhi can shi [A Newspaper Report on the Zhao Dai Case] | 趙帶案報導、當事人自述、拘捕與預定開審<br>The Zhao Dai case, police custody and notice of a hearing | [Tung Wah Times, 1906-08-25, p. 6, NLA news-page26801066](https://trove.nla.gov.au/newspaper/page/26801066) · [GitHub v0.2.0](https://github.com/poplolioi11/trove26801066-zhao-dai-case/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24412530) · 維基文庫草稿待人工覆核 |
 | 《兩善俱備》 · 1906-08-25<br>Liang shan ju bei [A Community Fund for Bereaved Families and Legal Aid] | 趙帶案的家屬撫恤及司法援助<br>Community support for bereaved families and legal aid | [Tung Wah Times, 1906-08-25, p. 6, NLA news-page26801066](https://trove.nla.gov.au/newspaper/page/26801066) · [GitHub v0.2.0](https://github.com/poplolioi11/trove26801066-zhao-dai-legal-aid/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24412552) · 維基文庫草稿待人工覆核 |
 | 《癲佬被拘》 · 1913-02-22<br>Dian lao bei ju [Police Detention Following a Reported Mental Health Crisis] | 《本洲新聞》報導一名從鄉間來雪梨的華人工人，記報中稱其突然發癲狂、他人受傷送醫，以及警察拘押候訊。<br>Sydney local news reports a Chinese worker described by the newspaper as experiencing mental distress, the medical treatment of injured persons, and his detention by the police pending a hearing. | [Tung Wah Times, 1913-02-22, p. 7, NLA news-page24092588](https://trove.nla.gov.au/newspaper/page/24092588) · [GitHub v0.2.0](https://github.com/poplolioi11/trove24092588-police-detention/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24412572) · 維基文庫草稿待人工覆核 |
+| 《瘋疾潛來雪梨》 · 1925-11-28<br>Feng ji qian lai Xueli [A Chinese Man Reported Travelling to Sydney] | 原報據加立頓消息，記一名被懷疑患瘋疾的華人往雪梨，以及地方警察通報的經過。<br>The newspaper describes a Chinese man believed to be mentally unwell who travelled to Sydney, and the local police response. | [Tung Wah Times, 1925-11-28, p. 7, NLA news-page24101368](https://trove.nla.gov.au/newspaper/page/24101368) · [GitHub v0.2.0](https://github.com/poplolioi11/trove24101368a-sydney-arrival/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24412600) · 維基文庫草稿待人工覆核 |
 
 ## 相關慈善史材料｜Related charity records
 
