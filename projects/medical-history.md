@@ -4,11 +4,28 @@
 
 This index brings together **92 source series**: 90 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
-[回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records)
+[回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records) · [報刊精神醫學史｜Mental health history in the press](#mental-distress-and-care-in-the-press)
 
 各版提供其實際轉錄範圍、來源和疑讀。英譯書名供檢索。轉錄使用 AI 輔助，仍待人類全文雙校或專家審定。訂正附檔須搭配所列固定版本使用。作品、館藏底本和發行版本各有識別，其中《奇症略述》的兩個館號各有來源與轉錄範圍。
 
 Bracketed English glosses are discovery aids. Each release documents the scope, source, and doubtful readings of its AI-assisted transcription. Supplementary corrections accompany their cited archival release. The two *Qi zheng lue shu* entries represent different witnesses and transcription scopes.
+
+<a name="mental-distress-and-care-in-the-press"></a>
+
+## 華文報刊中的精神困擾與照護｜Mental distress and care in the Chinese-language press
+
+《點石齋畫報》《東華新報》與《東華報》的 20 篇記事（1884–1928），涵蓋報刊所載的求助、請醫、收治與拘留經過，也呈現家屬、醫者、巡警與官員如何回應。主題依報刊所載的處置分組。篇名保留當時用語並連到回圖版，原刊連結指向所在版頁或圖幅。
+
+These 20 articles (1884–1928) from the *Dianshizhai Pictorial*, *Tung Wah News* and *Tung Wah Times* cover reported efforts to seek help, medical consultations, admission and detention, and the responses of families, physicians, police and officials. The groups follow the actions described in the press. Historical titles link to the image-reviewed transcriptions, and separate source links identify the original pages or plates.
+
+- **求診、收治與轉院｜Consultation, admission and transfer**　[狂人上壽](https://github.com/poplolioi11/trove24102427-hospital-residence/releases/tag/v0.2.0) · [原刊](https://trove.nla.gov.au/newspaper/page/24102427)（1899-06-10）、[法國顛人](https://github.com/poplolioi11/trove24100008-french-merchant-asylum/releases/tag/v0.2.0) · [原刊](https://trove.nla.gov.au/newspaper/page/24100008)（1901-04-17）、[兇入癲院](https://github.com/poplolioi11/trove24100097-court-asylum-admission/releases/tag/v0.2.0) · [原刊](https://trove.nla.gov.au/newspaper/page/24100097)（1901-07-03）、[華童患瘋症](https://github.com/poplolioi11/trove24101237-child-admission/releases/tag/v0.2.0) · [原刊](https://trove.nla.gov.au/newspaper/page/24101237)（1925-08-08）、[瘋疾自投醫院](https://github.com/poplolioi11/trove24101368b-self-referral/releases/tag/v0.2.0) · [原刊](https://trove.nla.gov.au/newspaper/page/24101368)（1925-11-28）、[華人染有瘋症](https://github.com/poplolioi11/trove24098840-liverpool-hospital-case/releases/tag/v0.2.0) · [原刊](https://trove.nla.gov.au/newspaper/page/24098840)（1928-06-09）。
+- **院內管理、離院與安全｜Institutional oversight, departures and safety**　[瘋人難防](https://github.com/poplolioi11/bsb00075647f352-asylum-management/releases/tag/v0.2.0) · [原刊](https://www.digitale-sammlungen.de/en/view/bsb00075647?page=352)（1895，御七第 50 圖）、[瘋人逃脫](https://github.com/poplolioi11/trove24092556-asylum-escape/releases/tag/v0.2.0) · [原刊](https://trove.nla.gov.au/newspaper/page/24092556)（1913-01-25）、[瘋人院擊斃華人](https://github.com/poplolioi11/trove24098856-goulburn-institutional-case/releases/tag/v0.2.0) · [原刊](https://trove.nla.gov.au/newspaper/page/24098856)（1928-06-23）。
+- **家屬、旁人與巡警｜Families, bystanders and police**　[瘋婦投河](https://github.com/poplolioi11/bsb00075644f735-family-rescue/releases/tag/v0.2.0) · [原刊](https://www.digitale-sammlungen.de/en/view/bsb00075644?page=735)（1886，辛二第 9 圖）、[失性遠遁](https://github.com/poplolioi11/trove24102505-narrandera-missing-resident/releases/tag/v0.2.0) · [原刊](https://trove.nla.gov.au/newspaper/page/24102505)（1899-08-19）、[丈夫蠢狀](https://github.com/poplolioi11/trove24102706-victoria-family-police/releases/tag/v0.2.0) · [原刊](https://trove.nla.gov.au/newspaper/page/24102706)（1900-02-21）、[郵役發狂](https://github.com/poplolioi11/trove26800439-postal-worker/releases/tag/v0.2.0) · [原刊](https://trove.nla.gov.au/newspaper/page/26800439)（1904-05-21）、[失財成狂](https://github.com/poplolioi11/trove26802071-police-medical-call/releases/tag/v0.2.0) · [原刊](https://trove.nla.gov.au/newspaper/page/26802071)（1909-02-06）、[癲佬被拘](https://github.com/poplolioi11/trove24092588-police-detention/releases/tag/v0.2.0) · [原刊](https://trove.nla.gov.au/newspaper/page/24092588)（1913-02-22）、[瘋疾潛來雪梨](https://github.com/poplolioi11/trove24101368a-sydney-arrival/releases/tag/v0.2.0) · [原刊](https://trove.nla.gov.au/newspaper/page/24101368)（1925-11-28）。
+- **官署詢問、證言與社群互助｜Official inquiries, testimony and mutual aid**　[革員病瘋](https://github.com/poplolioi11/bsb00075644f054-official-assessment/releases/tag/v0.2.0) · [原刊](https://www.digitale-sammlungen.de/en/view/bsb00075644?page=54)（1884，甲六第 47 圖）、[瘋人誣婦](https://github.com/poplolioi11/bsb00075647f381-oral-testimony/releases/tag/v0.2.0) · [原刊](https://www.digitale-sammlungen.de/en/view/bsb00075647?page=381)（1895，御十第 79 圖）、[華人癲狂殺人之慘事](https://github.com/poplolioi11/trove26801066-zhao-dai-case/releases/tag/v0.2.0) · [原刊](https://trove.nla.gov.au/newspaper/page/26801066)（1906-08-25）、[兩善俱備](https://github.com/poplolioi11/trove26801066-zhao-dai-legal-aid/releases/tag/v0.2.0) · [原刊](https://trove.nla.gov.au/newspaper/page/26801066)（1906-08-25）。
+
+〈華人癲狂殺人之慘事〉與〈兩善俱備〉是同案的兩篇記事。〈瘋疾潛來雪梨〉與〈瘋疾自投醫院〉另各有題頭，可能接續敘述同一件事。
+
+*Huaren dian kuang sha ren zhi can shi* and *Liang shan ju bei* report different aspects of the same case. *Feng ji qian lai Xueli* and *Feng ji zi tou yi yuan* have separate headings and may concern the same event.
 
 ## 牛津 Bodleian｜Bodleian holdings
 
