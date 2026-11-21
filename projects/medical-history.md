@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **88 個文獻系列**，含 86 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **89 個文獻系列**，含 87 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **88 source series**: 86 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **89 source series**: 87 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records)
 
@@ -105,6 +105,7 @@ Bracketed English glosses are discovery aids. Each release documents the scope, 
 | 《丈夫蠢狀》 · 1900-02-21<br>Zhangfu chun zhuang [A Newspaper Account of a Husband's Sudden Distress] | 維多利亞個案、家屬察覺與求助<br>Family observation and a search involving local police in Victoria | [Tung Wah News, 1900-02-21, p. 2, NLA news-page24102706](https://trove.nla.gov.au/newspaper/page/24102706) · [GitHub v0.2.0](https://github.com/poplolioi11/trove24102706-victoria-family-police/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24411849) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13238849) |
 | 《兇入癲院》 · 1901-07-03<br>Xiong ru dian yuan [A Court-Ordered Admission to an Asylum] | 審訊後送癲人院監置<br>Court-ordered confinement in an asylum | [Tung Wah News, 1901-07-03, p. 2, NLA news-page24100097](https://trove.nla.gov.au/newspaper/page/24100097) · [GitHub v0.2.0](https://github.com/poplolioi11/trove24100097-court-asylum-admission/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24411880) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13238956) |
 | 《法國顛人》 · 1901-04-17<br>Fa guo dian ren [A French Man Taken to an Asylum] | 一名法商發病、巡差陪同至院<br>A French merchant taken to an asylum | [Tung Wah News, 1901-04-17, p. 2, NLA news-page24100008](https://trove.nla.gov.au/newspaper/page/24100008) · [GitHub v0.2.0](https://github.com/poplolioi11/trove24100008-french-merchant-asylum/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24411906) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13239059) |
+| 《失財成狂》 · 1909-02-06<br>Shi cai cheng kuang [Mental Distress After Loss of Savings] | 原刊轉述西報所載一名華人失財後的精神困擾，記其與屋主及巡捕的接觸，並記巡差拘留後召醫調治。<br>This report, attributed by the newspaper to the Western press, describes a Chinese man in distress after the theft of his savings and notes his detention by the police, who called a physician. | [Tung Wah Times, 1909-02-06, p. 7, NLA news-page26802071](https://trove.nla.gov.au/newspaper/page/26802071) · [GitHub v0.2.0](https://github.com/poplolioi11/trove26802071-police-medical-call/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24411956) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13239166) |
 
 ## 相關慈善史材料｜Related charity records
 
