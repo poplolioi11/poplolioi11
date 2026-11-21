@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **70 個文獻系列**，含 68 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **71 個文獻系列**，含 69 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **70 source series**: 68 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **71 source series**: 69 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records)
 
@@ -87,6 +87,7 @@ Bracketed English glosses are discovery aids. Each release documents the scope, 
 | 《《治驗録》〈兵庫縣病院入院患者表〉》 · 1873–1874 年住院紀錄<br>Chikenroku [Hyōgo Prefectural Hospital Inpatient Register] | 明治初年兵庫縣病院逐欄記錄246位住院患者，含收治理由、入院及出院日、滯院日數與轉歸。提供 CSV。<br>A record of 246 inpatients in early Meiji Hyōgo, with presenting conditions, dates, length of stay and outcomes. Includes CSV. | [神戶大學 0100399104](https://da.lib.kobe-u.ac.jp/da/sc/0100399104/) · [GitHub v0.2.0](https://github.com/poplolioi11/kobe-0100399104-hyogo-inpatient-register/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24410270) |
 | 《南皮張尚書戒纏足會章程叙》 · 1897 年署記<br>Nanpi Zhang Shangshu jie chan zu hui zhang cheng xu [Preface to the Rules of the Anti-Footbinding Society] | 張之洞為戒纏足會章程撰序，文中涉及纏足者的身體行動、勞作與婦女教育。底本為紅紙單張。<br>Zhang Zhidong’s preface to anti-footbinding society regulations, preserved on an Oxford red-paper broadside. | [牛津大學 Sinica 6560](https://digital.bodleian.ox.ac.uk/objects/68752de6-c2c3-4ae1-a986-42e98602c332/) · [GitHub v0.2.0](https://github.com/poplolioi11/bodleian-sinica6560-anti-footbinding-preface/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24410284) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13231396) |
 | 《《中西聞見錄》〈漢口花樓仁濟醫院敬啟〉》 · 1873 年刊<br>Hankou Hua lou Ren ji yi yuan jing qi [Notice from Renji Hospital at Hualou, Hankou] | 漢口仁濟醫院說明住院與帶藥返家的分流、免費施醫送藥及遷院理由，附原刊按語。<br>The Hankou Renji Hospital notice describes admission or take-home treatment, free care and the reasons for relocation. | [澳洲國家圖書館《中西聞見錄》第14號](https://ecpo.cats.uni-heidelberg.de/ecpo/publications.php?magid=251&isid=42296) · [GitHub v0.2.0](https://github.com/poplolioi11/nla-514067-hankou-renji-hospital-notice-1873/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24410515) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13233040) |
+| 《陳篤生創院碑》 · 1845 年刻<br>Chen Dusheng chuang yuan bei [Dedication Stele of the Chinese Paupers’ Hospital] | 陳篤生記創院動機與為窮病者提供棲息之所。以原石面逐欄保存磨損處和地名異讀。<br>Tan Tock Seng’s original dedication stele explains the hospital foundation and a place of care for impoverished patients. | [陳篤生醫院藏，NHB 展覽](https://artsandculture.google.com/asset/dedication-stele-of-the-chinese-paupers%E2%80%99-hospital-later-the-tan-tock-seng-hospital/mgHdUi51B8ucAQ?hl=en) · [GitHub v0.2.0](https://github.com/poplolioi11/singapore-nhb-tan-tock-seng-hospital-dedication-stele/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24410531) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13233051) |
 
 ## 相關慈善史材料｜Related charity records
 
