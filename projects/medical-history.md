@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **92 個文獻系列**，含 90 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **93 個文獻系列**，含 91 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **92 source series**: 90 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **93 source series**: 91 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records) · [報刊精神醫學史｜Mental health history in the press](#mental-distress-and-care-in-the-press)
 
@@ -126,6 +126,7 @@ These 20 articles (1884–1928) from the *Dianshizhai Pictorial*, *Tung Wah News
 | 《瘋疾自投醫院》 · 1925-11-28<br>Feng ji zi tou yi yuan [A Man Admits Himself to Hospital] | 原報記雪梨警方接到一名疑有瘋疾的華人到埠的消息，在菜園找尋，後知其已自行入防疫醫院。<br>The paper reports that police in Sydney looked for a Chinese man said to be mentally unwell and then learned that he had already presented himself at a hospital. | [Tung Wah Times, 1925-11-28, p. 7, NLA news-page24101368](https://trove.nla.gov.au/newspaper/page/24101368) · [GitHub v0.2.0](https://github.com/poplolioi11/trove24101368b-self-referral/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24412439) · 維基文庫草稿待人工覆核 |
 | 《瘋人難防》 · 1895<br>Feng ren nan fang [An Incident at a Paris Asylum] | 《點石齋畫報》御七〈瘋人難防〉描寫巴黎一所未具名的精神收治機構。<br>The Dianshizhai Pictorial describes an unnamed asylum in Paris. | [BSB bsb00075647, scan 352](https://www.digitale-sammlungen.de/en/view/bsb00075647?page=352) · [GitHub v0.2.0](https://github.com/poplolioi11/bsb00075647f352-asylum-management/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24412482) · 維基文庫草稿待人工覆核 |
 | 《華童患瘋症》 · 1925-08-08<br>Hua tong huan feng zheng [A Chinese Child Sent to Hospital] | 雪梨《東華報》記一名華人留學少年身體不適，經延醫診察後送列度灣流行病醫院療治。<br>This local report describes a twelve-year-old Chinese student who became unwell in Sydney. | [Tung Wah Times, 1925-08-08, p. 7, NLA news-page24101237](https://trove.nla.gov.au/newspaper/page/24101237) · [GitHub v0.2.0](https://github.com/poplolioi11/trove24101237-child-admission/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24412504) · 維基文庫草稿待人工覆核 |
+| 《華人癲狂殺人之慘事》 · 1906-08-25<br>Huaren dian kuang sha ren zhi can shi [A Newspaper Report on the Zhao Dai Case] | 趙帶案報導、當事人自述、拘捕與預定開審<br>The Zhao Dai case, police custody and notice of a hearing | [Tung Wah Times, 1906-08-25, p. 6, NLA news-page26801066](https://trove.nla.gov.au/newspaper/page/26801066) · [GitHub v0.2.0](https://github.com/poplolioi11/trove26801066-zhao-dai-case/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24412530) · 維基文庫草稿待人工覆核 |
 
 ## 相關慈善史材料｜Related charity records
 
