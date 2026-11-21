@@ -1,8 +1,8 @@
 # Historical Chinese medical texts｜中國醫學史文獻
 
-這裡收錄 **84 個文獻系列**，含 82 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
+這裡收錄 **85 個文獻系列**，含 83 項醫學史來源與 2 項相關慈善史帳冊。牛津 Bodleian、早稻田大學、東京大學、京都大學、哈佛燕京圖書館、千葉大學、中國國家圖書館、耶魯大學和哥倫比亞大學各藏本分列。有年代可核的底本與稿件涵蓋 1611 年刊本至 1930 年院刊；兩篇序的撰寫年代更早。各系列保留可追溯的來源、轉錄範圍和固定版本。
 
-This index brings together **84 source series**: 82 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
+This index brings together **85 source series**: 83 on Chinese medical history and two related charity registers. It covers Bodleian holdings and eight other libraries. Dated witnesses extend from a 1611 edition to a 1930 hospital report, with earlier prefaces preserved in the 1611 edition.
 
 [回主頁｜Back to profile](../README.md) · [Zenodo 社群｜Collection on Zenodo](https://zenodo.org/communities/late-qing-medical-history/records)
 
@@ -101,6 +101,7 @@ Bracketed English glosses are discovery aids. Each release documents the scope, 
 | 《瘋人院擊斃華人》 · 1928-06-23<br>Feng ren yuan ji bi Hua ren [Death of a Chinese Patient at a Mental Institution] | 報載一名長期住院華人的轉院經過與所遇院內致死事件。<br>A report on a long-term Chinese resident's transfer history and death in an asylum. | [Tung Wah Times, 1928-06-23, p. 8, NLA news-page24098856](https://trove.nla.gov.au/newspaper/page/24098856) · [GitHub v0.2.0](https://github.com/poplolioi11/trove24098856-goulburn-institutional-case/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24411759) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13238459) |
 | 《狂人上壽》 · 1899-06-10<br>Kuang ren shang shou [A Long-Lived Resident of a Hospital for the Insane] | 長期住院與跨院經歷<br>Long-term residence in two hospitals | [Tung Wah News, 1899-06-10, p. 3, NLA news-page24102427](https://trove.nla.gov.au/newspaper/page/24102427) · [GitHub v0.2.0](https://github.com/poplolioi11/trove24102427-hospital-residence/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24411773) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13238484) |
 | 《郵役發狂》 · 1904-05-21<br>You yi fa kuang [A Postal Worker Reported to Have Become Insane] | 主管、巡差與監房處置<br>Workplace response, police intervention and detention | [Tung Wah Times, 1904-05-21, p. 3, NLA news-page26800439](https://trove.nla.gov.au/newspaper/page/26800439) · [GitHub v0.2.0](https://github.com/poplolioi11/trove26800439-postal-worker/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24411795) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13238580) |
+| 《失性遠遁》 · 1899-08-19<br>Shi xing yuan dun [A Man Reported to Have Run Away After Becoming Unwell] | 新南威爾斯華人離家、居民與巡差尋訪<br>Community and police search for a missing Chinese resident | [Tung Wah News, 1899-08-19, p. 2, NLA news-page24102505](https://trove.nla.gov.au/newspaper/page/24102505) · [GitHub v0.2.0](https://github.com/poplolioi11/trove24102505-narrandera-missing-resident/releases/tag/v0.2.0) · [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24411828) · [維基文庫](https://zh.wikisource.org/wiki/Special:PermanentLink/13238736) |
 
 ## 相關慈善史材料｜Related charity records
 
